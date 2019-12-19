@@ -1,0 +1,11 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kelseythejackson/weather-app.git",
+  "author": "Kelsey Jackson <kelseythej@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "2.88.0"
+  }
+}
